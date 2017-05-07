@@ -1,4 +1,4 @@
-# require "first_gem/version"
+require "first_gem/version"
 
 module FirstGem
   def hello
