@@ -3,9 +3,7 @@ language: ruby
 rvm:
   - 2.0.0
 before_install: gem install bundler -v 1.14.6
-addons:
-  service_name: travis-ci
-    repo_token: rPkd3Brexvk6vOeBzuiug498ESZV0XX9g
+
 # regular test configuratiosn
 after_success:
-  - bundle exec coveralls
+  - CI=true TRAVIS=true bundle exec rake coveralls:push
