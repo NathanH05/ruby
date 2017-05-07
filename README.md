@@ -17,16 +17,16 @@ gem 'first_gem'
 ```
 
 [Gem Version]: https://rubygems.org/gems/boolean_class
-[Build Status]: https://travis-ci.org/elgalu/boolean_class
+[Build Status]: https://travis-ci.org/NathanH05/ruby
 [travis pull requests]: https://travis-ci.org/elgalu/boolean_class/pull_requests
-[Dependency Status]: https://gemnasium.com/elgalu/boolean_class
-[Code Climate]: https://codeclimate.com/github/elgalu/boolean_class
+[Dependency Status]: https://gemnasium.com/NathanH05/ruby
+[Code Climate]: https://codeclimate.com/github/NathanH05/ruby
 [Coverage Status]: https://coveralls.io/github/NathanH05/ruby
 
-[GV img]: https://badge.fury.io/rb/boolean_class.png
-[BS img]: https://travis-ci.org/elgalu/boolean_class.png
-[DS img]: https://gemnasium.com/elgalu/boolean_class.png
-[CC img]: https://codeclimate.com/github/elgalu/boolean_class.png
+[GV img]: https://badge.fury.io/rb/ruby.png
+[BS img]: https://travis-ci.org/NathanH05/ruby.png
+[DS img]: https://gemnasium.com/NathanH05/ruby.png
+[CC img]: https://codeclimate.com/github/NathanH05/ruby.png
 [CS img]: https://coveralls.io/github/NathanH05/ruby/badge.png?branch=master
 And then execute:
 
