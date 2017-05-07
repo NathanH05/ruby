@@ -1,8 +1,5 @@
 # FirstGem
-[![Gem Version][GV img]][Gem Version]
 [![Build Status][BS img]][Build Status]
-[![Dependency Status][DS img]][Dependency Status]
-[![Code Climate][CC img]][Code Climate]
 [![Coverage Status][CS img]][Coverage Status]
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/first_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -15,11 +12,12 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'first_gem'
 ```
-[![Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
+[Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
 
-[Gem Version]: https://rubygems.org/gems/boolean_class
-[![Build Status](https://travis-ci.org/NathanH05/ruby.svg?branch=master)](https://travis-ci.org/NathanH05/ruby)
-[travis pull requests]: https://travis-ci.org/NathanH05/ruby/pull_requests
+[Build Status]: https://travis-ci.org/NathanH05/ruby.svg?branch=master
+[travis pull requests]: https://travis-ci.org/elgalu/boolean_class/pull_requests
+[Dependency Status]: https://gemnasium.com/NathanH05/ruby
+[Code Climate]: https://codeclimate.com/github/NathanH05/ruby
 [Coverage Status]: https://coveralls.io/github/NathanH05/ruby
 
 [GV img]: https://badge.fury.io/rb/ruby.png
