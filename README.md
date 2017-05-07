@@ -21,13 +21,13 @@ gem 'first_gem'
 [travis pull requests]: https://travis-ci.org/elgalu/boolean_class/pull_requests
 [Dependency Status]: https://gemnasium.com/elgalu/boolean_class
 [Code Climate]: https://codeclimate.com/github/elgalu/boolean_class
-[Coverage Status]: https://coveralls.io/r/elgalu/boolean_class
+[Coverage Status]: https://coveralls.io/github/NathanH05/ruby
 
 [GV img]: https://badge.fury.io/rb/boolean_class.png
 [BS img]: https://travis-ci.org/elgalu/boolean_class.png
 [DS img]: https://gemnasium.com/elgalu/boolean_class.png
 [CC img]: https://codeclimate.com/github/elgalu/boolean_class.png
-[CS img]: https://coveralls.io/repos/elgalu/boolean_class/badge.png?branch=master
+[CS img]: https://coveralls.io/github/NathanH05/ruby/badge.png?branch=master
 And then execute:
 
     $ bundle
