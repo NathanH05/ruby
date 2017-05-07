@@ -2,8 +2,7 @@
 [![Build Status][BS img]][Build Status]
 [![Coverage Status][CS img]][Coverage Status]
 
-[Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
-
+[Coverage Status]:https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master
 [Build Status]: https://travis-ci.org/NathanH05/ruby.svg?branch=master
 [travis pull requests]: https://travis-ci.org/elgalu/boolean_class/pull_requests
 [Dependency Status]: https://gemnasium.com/NathanH05/ruby
