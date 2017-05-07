@@ -1,5 +1,14 @@
-require "first_gem/version"
+# require "first_gem/version"
 
 module FirstGem
-  # Your code goes here...
+  def hello
+  	a = 2
+  	return a
+  end
 end
+
+# class FirstGem
+# 	def hi
+# 		return 2
+# 	end
+# end

@@ -1,0 +1,23 @@
+image: ruby:2.3
+
+rspec:
+  script:
+    - bundle install
+    - rspec
+  artifacts:
+    paths:
+      - coverage/
+     - coverage/
+
+pages:
+  stage: deploy
+  dependencies:
+    - rspec
+  script:
+    - mv coverage/ public/
+  artifacts:
+    paths:
+      - public
+    expire_in: 30 days
+  only:
+    - master

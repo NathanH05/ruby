@@ -1,5 +1,7 @@
 require "bundler/setup"
-require "first_gem"
+require 'simplecov'
+require 'codeclimate-test-reporter'
+SimpleCov.start
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
