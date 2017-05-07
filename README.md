@@ -15,6 +15,7 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'first_gem'
 ```
+[![Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
 
 [Gem Version]: https://rubygems.org/gems/boolean_class
 [Build Status]: https://travis-ci.org/NathanH05/ruby
