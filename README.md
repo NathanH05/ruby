@@ -18,10 +18,8 @@ gem 'first_gem'
 [![Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
 
 [Gem Version]: https://rubygems.org/gems/boolean_class
-[Build Status]: https://travis-ci.org/NathanH05/ruby
-[travis pull requests]: https://travis-ci.org/elgalu/boolean_class/pull_requests
-[Dependency Status]: https://gemnasium.com/NathanH05/ruby
-[Code Climate]: https://codeclimate.com/github/NathanH05/ruby
+[![Build Status](https://travis-ci.org/NathanH05/ruby.svg?branch=master)](https://travis-ci.org/NathanH05/ruby)
+[travis pull requests]: https://travis-ci.org/NathanH05/ruby/pull_requests
 [Coverage Status]: https://coveralls.io/github/NathanH05/ruby
 
 [GV img]: https://badge.fury.io/rb/ruby.png
