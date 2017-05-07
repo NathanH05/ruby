@@ -1,17 +1,7 @@
 # FirstGem
 [![Build Status][BS img]][Build Status]
 [![Coverage Status][CS img]][Coverage Status]
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/first_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'first_gem'
-```
 [Coverage Status](https://coveralls.io/repos/github/NathanH05/ruby/badge.svg?branch=master)](https://coveralls.io/github/NathanH05/ruby?branch=master)
 
 [Build Status]: https://travis-ci.org/NathanH05/ruby.svg?branch=master
@@ -25,6 +15,18 @@ gem 'first_gem'
 [DS img]: https://gemnasium.com/NathanH05/ruby.png
 [CC img]: https://codeclimate.com/github/NathanH05/ruby.png
 [CS img]: https://coveralls.io/github/NathanH05/ruby/badge.png?branch=master
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/first_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+
+TODO: Delete this and the text above, and describe your gem
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'first_gem'
+```
+
 And then execute:
 
     $ bundle
