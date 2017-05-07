@@ -1,6 +1,11 @@
 require "bundler/setup"
 require 'simplecov'
-require 'codeclimate-test-reporter'
+require 'coveralls'
+
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+  SimpleCov::Formatter::HTMLFormatter,
+  Coveralls::SimpleCov::Formatter
+]
 SimpleCov.start
 
 RSpec.configure do |config|
